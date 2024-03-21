@@ -1,0 +1,1 @@
+# Earthquake-Data-Visualization-and-Analysis-by-Junyoung-Seo
