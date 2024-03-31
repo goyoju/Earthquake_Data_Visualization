@@ -8,6 +8,7 @@ This project will study the relationship between earthquakes and other factors, 
 **Source:** [Kaggle](https://www.kaggle.com/datasets/warcoder/earthquake-dataset)
 
 **Cleaned Data:**
+
 ![cleaneddata](https://github.com/goyoju/Earthquake_Data_Visualization/assets/61122366/96708a89-52fd-49ed-947a-7c556027cc3b)
 
 **Columns** : 
